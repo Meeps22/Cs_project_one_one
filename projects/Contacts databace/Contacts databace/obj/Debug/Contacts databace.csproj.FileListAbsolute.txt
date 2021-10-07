@@ -1,0 +1,12 @@
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\bin\Debug\Contacts databace.exe.config
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\bin\Debug\Contacts databace.exe
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\bin\Debug\Contacts databace.pdb
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\obj\Debug\Contacts databace.csproj.AssemblyReference.cache
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\obj\Debug\Contacts_databace.Form1.resources
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\obj\Debug\Contacts_databace.Properties.Resources.resources
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\obj\Debug\Contacts databace.csproj.GenerateResource.cache
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\obj\Debug\Contacts databace.csproj.CoreCompileInputs.cache
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\obj\Debug\Contacts databace.exe
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\obj\Debug\Contacts databace.pdb
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\bin\Debug\da databese.mdf
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Contacts databace\Contacts databace\bin\Debug\da databese_log.ldf

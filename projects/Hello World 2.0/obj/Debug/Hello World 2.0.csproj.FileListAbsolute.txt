@@ -1,0 +1,10 @@
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Hello World 2.0\bin\Debug\Hello World 2.0.exe.config
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Hello World 2.0\bin\Debug\Hello World 2.0.exe
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Hello World 2.0\bin\Debug\Hello World 2.0.pdb
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Hello World 2.0\obj\Debug\Hello World 2.0.csproj.AssemblyReference.cache
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Hello World 2.0\obj\Debug\Hello_World_2._0.hello_world.resources
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Hello World 2.0\obj\Debug\Hello_World_2._0.Properties.Resources.resources
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Hello World 2.0\obj\Debug\Hello World 2.0.csproj.GenerateResource.cache
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Hello World 2.0\obj\Debug\Hello World 2.0.csproj.CoreCompileInputs.cache
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Hello World 2.0\obj\Debug\Hello World 2.0.exe
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\Hello World 2.0\obj\Debug\Hello World 2.0.pdb

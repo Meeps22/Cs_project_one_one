@@ -1,0 +1,7 @@
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\chapter2EXE9-10\bin\Debug\chapter2EXE9-10.exe.config
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\chapter2EXE9-10\bin\Debug\chapter2EXE9-10.exe
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\chapter2EXE9-10\bin\Debug\chapter2EXE9-10.pdb
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\chapter2EXE9-10\obj\Debug\chapter2EXE9-10.csproj.AssemblyReference.cache
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\chapter2EXE9-10\obj\Debug\chapter2EXE9-10.csproj.CoreCompileInputs.cache
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\chapter2EXE9-10\obj\Debug\chapter2EXE9-10.exe
+C:\Users\marcus.johnson\OneDrive - tooelesd\Desktop\game dev\projects\chapter2EXE9-10\obj\Debug\chapter2EXE9-10.pdb
